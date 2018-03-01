@@ -1,3 +1,0 @@
-This is the content to write into file
-second line
-third line
